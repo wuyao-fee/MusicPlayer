@@ -1,0 +1,47 @@
+[
+    {
+        "image": "./source/song_1.jpg",
+        "audioSrc": "./source/song_1.mp3",
+        "name": "听妈妈的话",
+        "album": "依然范特西",
+        "singer": "周杰伦",
+        "duration": 266,
+        "isLike": true
+    },
+    {
+        "image": "./source/song_2.jpg",
+        "audioSrc": "./source/song_2.mp3",
+        "name": "告白气球",
+        "album": "告白气球",
+        "singer": "周杰伦",
+        "duration": 216,
+        "isLike": true
+    },
+    {
+        "image": "./source/song_3.jpg",
+        "audioSrc": "./source/song_3.mp3",
+        "name": "晴天",
+        "album": "红歌②",
+        "singer": "周杰伦",
+        "duration": 249,
+        "isLike": false
+    },
+    {
+        "image": "./source/song_4.jpg",
+        "audioSrc": "./source/song_4.mp3",
+        "name": "七里香",
+        "album": "七里香",
+        "singer": "周杰伦",
+        "duration": 303,
+        "isLike": false
+    },
+    {
+        "image": "./source/song_5.jpg",
+        "audioSrc": "./source/song_5.mp3",
+        "name": "",
+        "album": "一路向北",
+        "singer": "周杰伦",
+        "duration": 295,
+        "isLike": true
+    }
+]
